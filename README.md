@@ -30,8 +30,6 @@ Here are some of the technologies I work with:
 
 ## 🌱 Currently Learning
 - Advanced **data modeling** techniques
-- Working with **distributed systems** (e.g., Apache Kafka, Hadoop)
-- Exploring **cloud data platforms** like AWS and GCP  
 
 ---
 
