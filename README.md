@@ -35,7 +35,7 @@ Here are some of the technologies I work with:
 
 ## 📫 Let's Connect
 - **GitHub**: [azdayanaa](https://github.com/azdayanaa)
-- **LinkedIn**: [Azdayana Azahari](https://linkedin.com/in/AzdayanaAzahari)
+- **LinkedIn**: [Azdayana Azahari](https://linkedin.com/in/azdayana-azahari)
 - **Portfolio**: [Azdayana Azahari](https://azdayanaa.github.io)
 
 ---
