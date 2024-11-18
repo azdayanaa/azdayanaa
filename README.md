@@ -40,7 +40,6 @@ Here are some of the technologies I work with:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azdayanaa&show_icons=true&theme=radical)
 
 <!---
 azdayanaa/azdayanaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
