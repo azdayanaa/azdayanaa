@@ -2,16 +2,6 @@
 
 🎓 **Bachelor of Computer Science (Data Engineering)**  
 🏫 University of Technology Malaysia  
-🌟 Passionate about turning raw data into actionable insights and building scalable systems.   
-💻 Love solving problems with **C++**.
-
----
-
-## 🚀 About Me
-A Computer Science student specializing in **Data Engineering**, with a focus on:  
-- Building **data pipelines** and **ETL processes**  
-- Analyzing and visualizing data to make informed decisions  
-- Exploring the potential of **Big Data** and **AI technologies**  
 
 ---
 
@@ -26,10 +16,6 @@ Here are some projects that showcase my skills and interests:
 Here are some of the technologies I work with:  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 
----
-
-## 🌱 Currently Learning
-- Advanced **data modeling** techniques
 
 ---
 
